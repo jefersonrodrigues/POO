@@ -2,6 +2,7 @@
 Trabalho final da disciplina de Programação Orientada a objetos.
 
 Descrição dos itens solicitados no trabalho:
+
 Desenvolver um software de cadastro OO em Java com interface gráfica que utilize (no mínimo) os seguintes conceitos discutidos em sala de aula:
 
 - Herança (mínimo de 1 definida e utilizada no cadastro, como usuário básico e avançado) 
